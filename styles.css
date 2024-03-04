@@ -1,0 +1,32 @@
+.av{
+    background-color:red;
+    width:10%;
+    height:50px;
+    border:20px solid black;
+    border-radius:10px;
+  }
+  .ax{
+    background-color:yellow;
+    width:10%;
+    height:50px;
+    border:20px solid black;
+    border-radius:10px;
+  }
+  .ay{
+   background-color:lightgreen;
+    width:10%;
+    height:50px;
+    border:20px solid black;
+    border-radius:10px;
+  }
+  .az{
+    border:20px solid black;
+    width:3%;
+    height:200px;
+    background-color:black;
+    margin-left:55px;
+    border-radius:10px;
+    
+     
+  }
+            
